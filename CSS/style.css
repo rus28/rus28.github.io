@@ -6,3 +6,6 @@ code {
   font-style: Helvetica; text-decoration: underline;}
 .caption {
   width: 50%; font-style: italic;}
+#most-important {
+  background-color: lightgrey; width: 200px; height:100px;}
+
