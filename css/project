@@ -1,3 +1,9 @@
 p {margin-right:300px; margin-left:60px; font-family: Georgia; font-size: 15px; }
 div {margin-right:200px; margin-left:60px; font-family: Verdana; font-size:15px;}
-body {font-family:Courier new; color:maroon;}
+body {font-family:Courier new; color:maroon;  
+border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;}
