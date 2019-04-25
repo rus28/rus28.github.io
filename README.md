@@ -1,5 +1,5 @@
 <html>
   <h1>
-rus28.github.io/index.html
+<a href="rus28.github.io/index.html">Link to All Works</a>
 </h1>
   </html>
